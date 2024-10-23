@@ -4,4 +4,4 @@ Se incluye los archivos los archivos de excel (level1, level2, level3 y level4) 
 
 Asimismo, se incluye la carpeta de google drive con todos los archivos realizados asi como el codigo. Link: https://drive.google.com/drive/folders/1bUO2XKsnA_GE5uEE_jpEc_pABjscLF8m?usp=sharing
 
-Link de la pagina web: 
+Link de la pagina web: https://brayan-lliuya-2024.github.io/PC3-Brayan_Lliuya/
